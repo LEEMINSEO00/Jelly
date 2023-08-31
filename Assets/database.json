@@ -1,0 +1,21 @@
+{
+    "jelatin": 100,
+    "gold": 100,
+    "jelly_unlock_list": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "jelly_list": [],
+    "num_level": 1,
+    "click_level": 1
+}
